@@ -1,0 +1,2 @@
+# Data-Visualisation-Tool-for-Analytics-of-SARS-CoV-2
+This project focuses on the development and creation of a dashboard to deliver and present results related to COVID-19. By developing a COVID-19 dashboard, data analytics has be applied to comprehend patterns and future projections. A product/dashboard has been developed by using KNIME Analytics Platform and Tableau Desktop, with a publication available, as listed below. 
